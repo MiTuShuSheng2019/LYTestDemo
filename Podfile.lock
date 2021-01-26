@@ -1,0 +1,29 @@
+PODS:
+  - LYFoundation (0.1.0)
+  - LYKit (0.1.0)
+
+DEPENDENCIES:
+  - LYFoundation (from `https://github.com/MiTuShuSheng2019/LYFoundation.git`)
+  - LYKit (from `https://github.com/MiTuShuSheng2019/LYKit.git`)
+
+EXTERNAL SOURCES:
+  LYFoundation:
+    :git: https://github.com/MiTuShuSheng2019/LYFoundation.git
+  LYKit:
+    :git: https://github.com/MiTuShuSheng2019/LYKit.git
+
+CHECKOUT OPTIONS:
+  LYFoundation:
+    :commit: 3256ba8ea38c58afc726b2a56a0fb231cc2a6ecf
+    :git: https://github.com/MiTuShuSheng2019/LYFoundation.git
+  LYKit:
+    :commit: dd45e17a2d7ac612c32ccf77d8104abb89fd5071
+    :git: https://github.com/MiTuShuSheng2019/LYKit.git
+
+SPEC CHECKSUMS:
+  LYFoundation: 21e80e843a36898cebafe4e637aee878a5aee319
+  LYKit: f479680d4da70967a596bdaf13c15e0efc214968
+
+PODFILE CHECKSUM: 1f527350f08561093a32cbcf9b754dbbdda5271d
+
+COCOAPODS: 1.9.3

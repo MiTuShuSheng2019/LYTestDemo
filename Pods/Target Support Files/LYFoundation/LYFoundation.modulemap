@@ -1,0 +1,6 @@
+framework module LYFoundation {
+  umbrella header "LYFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

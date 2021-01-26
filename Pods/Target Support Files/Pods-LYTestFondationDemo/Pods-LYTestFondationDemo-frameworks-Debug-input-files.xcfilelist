@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-LYTestFondationDemo/Pods-LYTestFondationDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/LYFoundation/LYFoundation.framework
+${BUILT_PRODUCTS_DIR}/LYKit/LYKit.framework

@@ -1,0 +1,22 @@
+{
+  "name": "LYFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of LYFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MiTuShuSheng2019/LYFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "904101287@qq.com": "yi.liu01@happy-seed.com"
+  },
+  "source": {
+    "git": "https://github.com/MiTuShuSheng2019/LYFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LYFoundation/Classes/**/*"
+}
